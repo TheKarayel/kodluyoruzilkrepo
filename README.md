@@ -28,6 +28,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Lisence 
 
 [MİT](https://choosealicense.com/licenses/mit/)
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 074191aecd00a58ac93f4242567b042f69c80e10
